@@ -112,7 +112,7 @@ body {
     align-items: flex-start;
     align-content: flex-start;
 
-    margin-left: 45px;
+    margin-left: -216px;
     overflow: auto;
     flex-direction: row;
     
@@ -485,6 +485,10 @@ ul {
   color: white;
   font-size: 24px;
   cursor: pointer;
+}
+
+.col h3{
+  text-align: start;
 }
 
 .ademas{
